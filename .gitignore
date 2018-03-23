@@ -1,0 +1,6 @@
+# ignore html
+*.html
+
+# ignore csv and xlsx
+*.csv
+*.xlsx
