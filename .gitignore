@@ -4,3 +4,7 @@
 # ignore csv and xlsx
 *.csv
 *.xlsx
+
+# ignore ipython checkpoints
+/.ipynb_checkpoints
+/__pycache__
